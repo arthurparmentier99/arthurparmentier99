@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arthurparmentier99
+- 🧪 Experimenting new stuff here, welcome to my laboratory
+- 📊 Data Science Student
+- 🎲 Trying to speak with the numbers
+- 📧 Send me an [email](mailto:arthurparmentier99@proton.me) for any questions
